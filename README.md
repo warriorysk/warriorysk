@@ -6,9 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Yaswanth-yellow)](https://stackoverflow.com/users/18259129/yaswanth-sai-kiran-pedapudi)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
+Full Stack Developer and Blockchain Developer
+The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).Currently i am improving my skills on Blockchain Technology (solidity,NFT,Tokens,Coins,).
 
 ![Visitor Count](https://profile-counter.glitch.me/warriorysk/count.svg)
 
